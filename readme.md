@@ -12,4 +12,6 @@ Noir Interchain Development Kit:- We have created an interchain dev kit for Noir
 
 Offchain-agent(Secondary):- Along with Noir Interchain Dev Kit, you get a prebuilt off-chain agent which you can pair with the custom ISM to add an additional verification layer for your project. This agent will run an off-chain verifier for the same circuit and will generate outputs based on the proof and public input received on the L1 router.
 
+![image](https://github.com/gitshreevatsa/BNB-Polyhedra/assets/81912496/d130bbbe-f437-4963-beac-3e15c97077e2)
+
 
